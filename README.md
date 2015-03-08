@@ -1,2 +1,2 @@
 # codeforces-solutions
-Solutions for [codeforces](http://codeforces.com) problem set, written in Scala and C++
+Solutions for [codeforces](http://codeforces.com) problem set, written in Scala, C++ and Python.
