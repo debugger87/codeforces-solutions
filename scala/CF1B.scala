@@ -6,7 +6,6 @@ object CF1B extends App {
   import java.io.{PrintWriter}
   import java.util.{Scanner}
 
-
   val in = new Scanner(System.in)
   val out = new PrintWriter(System.out)
 
