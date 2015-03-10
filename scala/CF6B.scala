@@ -1,9 +1,9 @@
-import scala.collection.mutable
 
 /**
  * Created by yangchaozhong on 3/10/15.
  */
 object CF6B extends App {
+  import scala.collection.mutable
   import java.util.{Scanner}
   import java.io.{PrintWriter}
 
